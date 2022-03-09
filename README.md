@@ -26,7 +26,7 @@ If it doesn’t, go into your terminal/command line, and do the following:
 4. Open MARS and then open JVA7_proj1.asm.
 5. Press the compile button (it looks like a pair of tools)
 6. Then press the run button (the green play button)
-7. Naviagate to Tools > Keypad and LED Display Simulator
+7. Navigate to Tools > Keypad and LED Display Simulator
 8. Press the CONNECT TO MIPS button
 9. You should now see this
 ![Screenshot](https://user-images.githubusercontent.com/35745239/157386130-fbda8efd-ce3a-4340-9de6-a870f09d3a41.png)
