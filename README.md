@@ -21,7 +21,7 @@ If it doesn’t, go into your terminal/command line, and do the following:
     try typing java -jar Mars and then hit the Tab key. It will complete the filename for you.
     
 4. Open MARS and then open JVA7_proj1.asm.
-5. Press the compile button (it looks like tools)
+5. Press the compile button (it looks like a pair of tools)
 6. Then press the run button (the green play button)
 7. Naviagate to Tools > Keypad and LED Display Simulator
 8. Press the CONNECT TO MIPS button
