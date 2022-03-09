@@ -31,3 +31,4 @@ If it doesn’t, go into your terminal/command line, and do the following:
 9. You should now see this
 ![Screenshot](https://user-images.githubusercontent.com/35745239/157386130-fbda8efd-ce3a-4340-9de6-a870f09d3a41.png)
 10. Use the arrow keys to move. Use Z for your sword, X to throw bombs and C to use keys.
+11. Have fun playing!
