@@ -3,6 +3,8 @@ My MIPS final project for CS0447 Computer Organization and Assembly Language.
 
 # What is it?
 This is my favorite project that I've done for a class so far at Pitt. Basically using some starter files and libraries that the teacher gave us we had to code the `JVA7_proj1.asm` to make a simple adventure game. The premise is to collect 3 keys and get to the treasure to beat the game. The player is able to throw bombs and use a sword in order to defeat blobs and clear the path to victory. The cool thing is that this is all coded in assembly language which is super low level so that means that it takes multiple lines in assembly to do the same thing that is possible in a higher level language.
+Here is a screenshot of the gameplay in 64x64 resolution:
+![Screenshot](https://user-images.githubusercontent.com/35745239/157386665-bbe81a68-181a-43e2-8caf-d17fbc2cdcda.png)
 
 # How to play?
 In order to play you have to download an application called MARS. This is a MIPS cpu emulator that allows us to compile and run MIPS assembly code without having a MIPS cpu built into your computer.
