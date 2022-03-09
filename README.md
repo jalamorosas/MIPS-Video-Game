@@ -26,5 +26,5 @@ If it doesn’t, go into your terminal/command line, and do the following:
 7. Naviagate to Tools > Keypad and LED Display Simulator
 8. Press the CONNECT TO MIPS button
 9. You should now see this
-![Screenshot](https://imgur.com/a/TOU2TqC)
+![Screenshot](https://user-images.githubusercontent.com/35745239/157386130-fbda8efd-ce3a-4340-9de6-a870f09d3a41.png)
 10. Use the arrow keys to move. Use Z for your sword, X to throw bombs and C to use keys.
