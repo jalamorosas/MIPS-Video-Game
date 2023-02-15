@@ -2,7 +2,8 @@
 My MIPS final project for CS0447 Computer Organization and Assembly Language.
 
 # What is it?
-This is my favorite project that I've done for a class so far at Pitt. Basically using some starter files and libraries that the teacher gave us we had to code the `JVA7_proj1.asm` to make a simple adventure game. The premise is to collect 3 keys and get to the treasure to beat the game. The player is able to throw bombs and use a sword in order to defeat blobs and clear the path to victory. The cool thing is that this is all coded in assembly language which is super low level so that means that it takes multiple lines in assembly to do the same thing that is possible in a higher level language.
+This is my favorite project that I've done for a class so far at Pitt. Basically using some starter files and libraries that the teacher gave us we had to code the `JVA7_proj1.asm` to make a simple adventure game. The premise is to collect 3 keys and get to the treasure to beat the game. The player is able to throw bombs and use a sword in order to defeat blobs and clear the path to victory. The cool thing about this game is that this is entirely coded in assembly language which is super low level. This means that unlike higher level languages many lines of codes are needed to perform even simple operations that are only a line or two in a higher level languages.
+
 Here is a screenshot of the gameplay in 64x64 resolution:
 
 <img width="300" alt="Screen Shot 2022-03-09 at 1 41 30 AM" src="https://user-images.githubusercontent.com/35745239/157386665-bbe81a68-181a-43e2-8caf-d17fbc2cdcda.png">
